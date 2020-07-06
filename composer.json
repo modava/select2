@@ -1,0 +1,27 @@
+{
+  "name": "modava/select2",
+  "description": "Select2 Modava",
+  "type": "Yii2-extension",
+  "keywords": [
+    "modava",
+    "Select2"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Mong Dao",
+      "email": "mongdaovan86@yahoo.com",
+      "homepage": "https://modava.com.vn/"
+    }
+  ],
+  "support": {
+    "wiki": "http://www.yiiframework.com/wiki/",
+    "source": "https://github.com/modava/select2"
+  },
+  "autoload": {
+    "psr-4": {
+      "modava\\select2\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
