@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 class Select2Asset extends AssetBundle
 {
-    public $sourcePath = '@backendWeb';
+    public $sourcePath = '@modava-assets';
 
     public $css = [
         'vendors/select2/dist/css/select2.min.css',
